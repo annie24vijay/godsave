@@ -1,0 +1,1 @@
+document['mytext'] <= 'Python says hi!'
